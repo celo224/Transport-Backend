@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+asyncpg
+alembic
+aiokafka
+python-dotenv
